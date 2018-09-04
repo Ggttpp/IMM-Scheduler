@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "326321541786",
+    "firebase_url": "https://immscheduler.firebaseio.com",
+    "project_id": "immscheduler",
+    "storage_bucket": "immscheduler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326321541786:android:a17d6868cf81b7ec",
+        "android_client_info": {
+          "package_name": "com.zulfian.immscheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326321541786-abfs0n6rm409fej22bimmlvko31kt8uv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zulfian.immscheduler",
+            "certificate_hash": "7862dd3c90b72253c0cc5b9de8cf211d9773e76e"
+          }
+        },
+        {
+          "client_id": "326321541786-efl9or1ef836h3r5mkq25aaidqj5ubft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBqibJ9_aZCmMCulMZnvXPoVP8f9U5LoQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326321541786-efl9or1ef836h3r5mkq25aaidqj5ubft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

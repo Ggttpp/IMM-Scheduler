@@ -1,0 +1,4 @@
+#Tue Sep 04 20:15:35 WIB 2018
+base.0=/home/najmuddin/AndroidStudioProjects/IMMScheduler/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
